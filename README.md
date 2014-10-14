@@ -14,3 +14,8 @@ Ruby
 ====
 
 * [Refactoring Ruby with Monads](http://codon.com/refactoring-ruby-with-monads)
+
+Testing
+-------
+
+* [High-Low Testing](http://mikepackdev.com/blog_posts/39-high-low-testing) (the goal is to test at a high, acceptance level and the low, unit level)
