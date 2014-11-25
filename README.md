@@ -24,3 +24,13 @@ Testing
 -------
 
 * [High-Low Testing](http://mikepackdev.com/blog_posts/39-high-low-testing) (the goal is to test at a high, acceptance level and the low, unit level)
+
+Paradigms
+=========
+
+Functional Programming
+----------------------
+
+* [Functional Programming in Javascript by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/#slide-0)
+* [Composition in Javascript by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/Compose/2013-05-22/#slide-0)
+* [Javascript Allonge](https://leanpub.com/javascript-allonge/read)
