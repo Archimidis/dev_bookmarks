@@ -2,6 +2,7 @@ Software Architecture
 =====================
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 
 
 Javascript
