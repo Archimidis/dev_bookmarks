@@ -29,9 +29,10 @@ Ruby
 * [Refactoring Ruby with Monads](http://codon.com/refactoring-ruby-with-monads)
 
 Testing
--------
+=======
 
 * [High-Low Testing](http://mikepackdev.com/blog_posts/39-high-low-testing) (the goal is to test at a high, acceptance level and the low, unit level)
+* [Ian Cooper: TDD, where did it all go wrong (Video)](https://vimeo.com/68375232) (re-discover Kent's original proposition, discover where key misunderstandings occured and look at a better approach to TDD that supports sofware development instead of impeding it)
 
 Paradigms
 =========
