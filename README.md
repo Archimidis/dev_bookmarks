@@ -5,7 +5,7 @@ Software Architecture
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey (video)](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Keynote: 8 Lines of Code by Greg Young (video)](http://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young discusses eight lines of very common code finding in them massive numbers of dependencies and difficulties, looking for ways to get rid of them.
 
-Microservices/Decomposition
+Microservices/Self-Contained Systems/Decomposition of a Monolith
 ---------------------------
 
 * [Stefan Tilkov: Nano, Micro, Mini, oh my: Modularization for sustainable systems (video)](https://www.youtube.com/watch?v=HYiLzji7MuY) -  Concepts for turning a single system into a system of systems, and discussion about the architectural and organizational challenges that arise.
