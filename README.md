@@ -2,9 +2,13 @@ Software Architecture
 =====================
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
-* [Keynote: 8 Lines of Code by Greg Young](http://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young discusses eight lines of very common code finding in them massive numbers of dependencies and difficulties, looking for ways to get rid of them.
+* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey (video)](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [Keynote: 8 Lines of Code by Greg Young (video)](http://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young discusses eight lines of very common code finding in them massive numbers of dependencies and difficulties, looking for ways to get rid of them.
 
+Microservices/Decomposition
+---------------------------
+
+* [Stefan Tilkov: Nano, Micro, Mini, oh my: Modularization for sustainable systems (video)](https://www.youtube.com/watch?v=HYiLzji7MuY) -  Concepts for turning a single system into a system of systems, and discussion about the architectural and organizational challenges that arise.
 
 Javascript
 ==========
@@ -33,7 +37,7 @@ Testing
 =======
 
 * [High-Low Testing](http://mikepackdev.com/blog_posts/39-high-low-testing) - The goal is to test at a high, acceptance level and the low, unit level.
-* [Ian Cooper: TDD, where did it all go wrong (Video)](https://vimeo.com/68375232) - Re-discover Kent's original proposition, discover where key misunderstandings occured and look at a better approach to TDD that supports sofware development instead of impeding it.
+* [Ian Cooper: TDD, where did it all go wrong (video)](https://vimeo.com/68375232) - Re-discover Kent's original proposition, discover where key misunderstandings occured and look at a better approach to TDD that supports sofware development instead of impeding it.
 
 Paradigms
 =========
