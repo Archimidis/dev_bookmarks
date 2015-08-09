@@ -49,3 +49,8 @@ Functional Programming
 * [Composition in Javascript by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/Compose/2013-05-22/#slide-0)
 * [Javascript Allonge](https://leanpub.com/javascript-allonge/read)
 * [Why Curry Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps)
+
+Tools
+=====
+
+* [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) - An in-depth explanation of how git works.
