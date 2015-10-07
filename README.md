@@ -49,6 +49,7 @@ Paradigms
 Functional Programming
 ----------------------
 
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch10.html) - Functional paradigm in using Javascript. Good explanation of functors, monads and the likes.
 * [Functional Programming in Javascript by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/#slide-0)
 * [Composition in Javascript by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/Compose/2013-05-22/#slide-0)
 * [Javascript Allonge](https://leanpub.com/javascript-allonge/read)
