@@ -1,6 +1,6 @@
 Software Engineering
 =====================
-* [ICSE 2015 - Grady Booch Keynote, The Future of Software Engineering](https://www.youtube.com/watch?v=h1TGJJ-F-fE) - Amazing review of the history of software engineering and the challenges of the future.
+* [ICSE 2015 - Grady Booch Keynote, The Future of Software Engineering (video)](https://www.youtube.com/watch?v=h1TGJJ-F-fE) - Amazing review of the history of software engineering and the challenges of the future.
 
 Software Architecture
 =====================
