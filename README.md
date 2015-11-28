@@ -13,7 +13,7 @@ Software Architecture
 
 Distributed Systems
 ===================
-*[Building Scalable Stateful Services by Caitie McCaffrey (video)](https://www.youtube.com/watch?v=H0i_bXKwujQ) - Benefits, problems to be solved and real world experience building stateful services.
+* [Building Scalable Stateful Services by Caitie McCaffrey (video)](https://www.youtube.com/watch?v=H0i_bXKwujQ) - Benefits, problems to be solved and real world experience building stateful services.
 
 Microservices/Self-Contained Systems/Decomposition of a Monolith
 ---------------------------
