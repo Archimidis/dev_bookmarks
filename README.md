@@ -2,6 +2,7 @@ Software Engineering
 =====================
 * [ICSE 2015 - Grady Booch Keynote, The Future of Software Engineering (video)](https://www.youtube.com/watch?v=h1TGJJ-F-fE) - Amazing review of the history of software engineering and the challenges of the future.
 * [Thinking for Programmers](https://channel9.msdn.com/Events/Build/2014/3-642) - Leslie Lamport introduces techniques and tools that help programmers think above the code level to determine what applications and services should do and ensure that they do it.
+* [NDC 2012 - Robert C. Martin, Professional Software Development](https://www.youtube.com/watch?v=zwtg7lIMUaQ) - Uncle Bob defines what is professionalism in software development.
 
 Software Architecture
 =====================
