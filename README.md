@@ -19,6 +19,7 @@ Microservices/Self-Contained Systems/Decomposition of a Monolith
 ---------------------------
 
 * [Stefan Tilkov: Nano, Micro, Mini, oh my: Modularization for sustainable systems (video)](https://www.youtube.com/watch?v=HYiLzji7MuY) -  Concepts for turning a single system into a system of systems, and discussion about the architectural and organizational challenges that arise.
+* [DDD & Microservices: At Last, Some Boundaries! by Eric Evans (video)](https://www.youtube.com/watch?v=yPvef9R3k-M) - How DDD's Bounded Context helps to model microservices.
 
 Javascript
 ==========
