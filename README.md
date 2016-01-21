@@ -56,6 +56,7 @@ Paradigms
 Functional Programming
 ----------------------
 
+* [Don't fear the Monad by Brian Beckman (video)](https://www.youtube.com/watch?v=ZhuHCtR3xq8) - The best explanation of what Monoid and a Monad are and why on earth they are so useful.
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch10.html) - Functional paradigm in using Javascript. Good explanation of functors, monads and the likes.
 * [Functional Programming in Javascript by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/#slide-0)
 * [Composition in Javascript by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/Compose/2013-05-22/#slide-0)
