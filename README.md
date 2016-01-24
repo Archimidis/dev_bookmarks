@@ -10,7 +10,7 @@ Software Architecture
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey (video)](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Keynote: 8 Lines of Code by Greg Young (video)](http://www.infoq.com/presentations/8-lines-code-refactoring) - Greg Young discusses eight lines of very common code finding in them massive numbers of dependencies and difficulties, looking for ways to get rid of them.
-* [Functional Programming with DDD by Greg Young (video)](https://skillsmatter.com/skillscasts/3191-ddd-functional-programming) - Can functional programming be used with DDD? How's event sourcing is functional programming?
+* [Functional Programming with DDD by Greg Young (video)](https://skillsmatter.com/skillscasts/3191-ddd-functional-programming) - Can functional programming be used with DDD? How is event sourcing equals functional programming?
 
 Distributed Systems
 ===================
