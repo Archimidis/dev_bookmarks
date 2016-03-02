@@ -64,6 +64,7 @@ Functional Programming
 * [Composition in Javascript by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/Compose/2013-05-22/#slide-0)
 * [Javascript Allonge](https://leanpub.com/javascript-allonge/read)
 * [Why Curry Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps)
+* [Fun with the Lambda Calculus by Corey Haines (video)](https://www.youtube.com/watch?v=QPqoFCHpLF4) - How to express natural numbers and their laws using lambda calculus in ruby.
 
 Tools
 =====
