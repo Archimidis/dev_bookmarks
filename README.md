@@ -49,6 +49,7 @@ Ruby
 Testing
 =======
 
+* [You won’t believe how old TDD is!](https://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/)
 * [High-Low Testing](http://mikepackdev.com/blog_posts/39-high-low-testing) - The goal is to test at a high, acceptance level and the low, unit level.
 * [Ian Cooper: TDD, where did it all go wrong (video)](https://vimeo.com/68375232) - Re-discover Kent's original proposition, discover where key misunderstandings occured and look at a better approach to TDD that supports sofware development instead of impeding it.
 
